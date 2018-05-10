@@ -6,5 +6,9 @@ Installation and usage
 You need sipcalc and nmap for this script. Then download .sh script and run it.
 
 sudo apt -y install sipcalc nmap
+
+git clone https://github.com/priyankvadaliya/Hack-Captive-Portal.git
+
 sudo chmod u+x hack-captive.sh
+
 sudo ./hack-captive.sh
